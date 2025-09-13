@@ -3,7 +3,7 @@ As an enthusiastic engineering student, I am deeply passionate about programming
 Always ready to a cool project.
 
 ## 🌐 Portfolio:
-[![MyPortfolio](https://img.shields.io/badge/My%20Portfolio-8A2BE2)](https://uziportfolio-amber.vercel.app)
+[![MyPortfolio](https://img.shields.io/badge/My%20Portfolio-8A2BE2)](https://my-portfolio-pink-mu-26.vercel.app)
 
 
 ## 🌐 Socials:
